@@ -1,0 +1,7 @@
+.git/
+.ipynb_checkpoints/
+.vs/
+models/
+records/
+*.h5
+*.tflite
