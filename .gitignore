@@ -5,3 +5,6 @@ models/
 records/
 *.h5
 *.tflite
+*.csv
+LSTM-C.py
+
